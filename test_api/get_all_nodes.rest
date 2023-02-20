@@ -1,1 +1,5 @@
-GET http://localhost:3001/api/notes
+PUT http://localhost:3001/api/notes/63edd925d083e289df4618e0 HTTP/1.1
+
+{
+    content: "GET",
+}  
